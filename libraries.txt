@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+DHT sensor library for ESPx
+LiquidCrystal
+LiquidCrystal I2C
+Firebase Arduino Client Library for ESP8266 and ESP32
+Firebase ESP32 Client
